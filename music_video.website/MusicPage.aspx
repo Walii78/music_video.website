@@ -12,8 +12,8 @@
     </style>
 </head>
 <body>
-    <h1>Welcome to My Favorite Music Video</h1>
-    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=4TX7w2eCu4c" frameborder="0" allowfullscreen></iframe>
+    <h1 class="element-to-animate">Welcome to My Favorite Music Video</h1>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/4TX7w2eCu4c" frameborder="0" allowfullscreen></iframe>
 
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script>
